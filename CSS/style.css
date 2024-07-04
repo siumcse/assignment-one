@@ -34,17 +34,14 @@
 }
 
 h1 {
-    /*color: darkblue;*/
-
     color: darkcyan;
-    font-size: 45px;
+    font-size: 40px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 p {
     padding: 8px;
 }
-
 
 button {
     margin: 3%;
