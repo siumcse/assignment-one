@@ -16,6 +16,7 @@
 }
 
 .img-circle {
+    height: 200px;
     border-radius: 50%;
 }
 
@@ -33,7 +34,10 @@
 }
 
 h1 {
-    color: darkblue;
+    /*color: darkblue;*/
+
+    color: darkcyan;
+    font-size: 45px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
